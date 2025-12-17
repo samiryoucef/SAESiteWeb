@@ -138,6 +138,6 @@ Montrer que l’application **ne passe pas à l’échelle** dans certains cas.
 
 
 ##### Echéances :
-Constitution des groupes
-Mettre un lien pour renseigner les dépôts Git
-Validation du sujet  et du cas d'utilisation 
+- Constitution des groupes
+- Mettre un lien pour renseigner les dépôts Git
+- Validation du sujet  et du cas d'utilisation 
