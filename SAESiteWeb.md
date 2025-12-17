@@ -8,6 +8,11 @@
 
 ----
 
+###### Personnes à contacter
+
+- Nathalie Pernelle <nathalie.pernelle@univ-paris13.fr>
+- Manel Zarrouk <zarrouk@lipn.univ-paris13.fr>
+- Samir Youcef <youcef@lipn.univ-paris13.fr>
 #### Objectif
 
 L’objectif de cette SAE est de concevoir et développer une **application web interactive** qui exploite une base de données relationnelle.  L'architecture de l'application est illustré dans la figure suivante.  Son développement s'appuie sur les technologies suivante. 
