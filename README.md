@@ -1,7 +1,9 @@
+
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <strong><em>Sup-Galilée </em></strong>
-  <strong><em></em></strong>
+  <strong><em>Sup-Galilée</em></strong>
+  <img src="Sup-Galilee.png" alt="Logo Université" style="height: 50px; object-fit: contain;">
 </div>
+
 
 ------
 <center> <span style="font-size: 22px;"> <b> Développement d’une application web dynamique avec gestion de base de données</b> </span> </center>
