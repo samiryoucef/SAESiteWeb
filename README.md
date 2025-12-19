@@ -1,19 +1,15 @@
 <p align="left">
-  <strong><em>Sup-Galilée</em></strong>
+
+<img src="Institut-Galilee.png" alt="Logo Université" height="65" align="left">
   <img src="Sup-Galilee.png" alt="Logo Université" height="50" align="right">
 </p>
 
+<br> <br><br> 
 
+<h2 align="center">
+  Développement d’une application web dynamique avec gestion de base de données
+</h2>
 
-
-------
-<p align="center">
-  <strong style="font-size:22px;">
-    Développement d’une application web dynamique avec gestion de base de données
-  </strong>
-</p>
-
-----
 
 ###### Personnes à contacter
 
