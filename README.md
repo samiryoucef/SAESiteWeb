@@ -5,12 +5,14 @@
 
 
 
+
 ------
 <p align="center">
   <strong style="font-size:22px;">
     Développement d’une application web dynamique avec gestion de base de données
   </strong>
 </p>
+
 ----
 
 ###### Personnes à contacter
