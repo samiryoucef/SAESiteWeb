@@ -1,11 +1,3 @@
-
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <strong><em>Sup-Galilée</em></strong>
-  <img src="Sup-Galilee.png" alt="Logo Université" style="height: 50px; object-fit: contain;">
-</div>
-
-
-
 <p align="left">
   <strong><em>Sup-Galilée</em></strong>
   <img src="Sup-Galilee.png" alt="Logo Université" height="50" align="right">
