@@ -1,7 +1,7 @@
 <p align="left">
 
-<img src="Institut-Galilee.png" alt="Logo Université" height="65" align="left">
-  <img src="Sup-Galilee.png" alt="Logo Université" height="50" align="right">
+<img src="images/Institut-Galilee.png" alt="Logo Université" height="65" align="left">
+  <img src="images/Sup-Galilee.png" alt="Logo Université" height="50" align="right">
 </p>
 
 <br> <br><br> 
@@ -16,6 +16,13 @@
 - Nathalie Pernelle <nathalie.pernelle@univ-paris13.fr>
 - Manel Zarrouk <zarrouk@lipn.univ-paris13.fr>
 - Samir Youcef <youcef@lipn.univ-paris13.fr>
+
+Le travail demandé ci-dessous est à réaliser en binôme (trois personnes maximum).  
+Le projet devra être déposé dans un dépôt Git et structuré selon l’organisation indiquée ci-après.  
+Merci de renseigner le lien vers votre dépôt via le lien suivant :
+
+
+
 #### Objectif
 
 L’objectif de cette SAE est de concevoir et développer une **application web interactive** qui exploite une base de données relationnelle.  L'architecture de l'application est illustré dans la figure suivante.  Son développement s'appuie sur les technologies suivante. 
@@ -26,7 +33,7 @@ L’objectif de cette SAE est de concevoir et développer une **application web 
 - **Git** pour le versionnage du code et le suivi de l’évolution du projet.
 
 <p align="center">
-  <img src="Pasted image 20251217001719.png" alt="description">
+  <img src="images/Pasted image 20251217001719.png" alt="description">
   <br/>
   <small>Architecture de l'application à concevoir</small><br>
 </p>
