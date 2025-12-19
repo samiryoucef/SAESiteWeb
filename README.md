@@ -5,6 +5,13 @@
 </div>
 
 
+
+<p align="left">
+  <strong><em>Sup-Galilée</em></strong>
+  <img src="Sup-Galilee.png" alt="Logo Université" height="50" align="right">
+</p>
+
+
 ------
 <center> <span style="font-size: 22px;"> <b> Développement d’une application web dynamique avec gestion de base de données</b> </span> </center>
 
